@@ -8,7 +8,6 @@
 
 **Expertise**
 
-* **Developed a clear-air turbulence prediction system that achieved results comparable to those in literature, and examined the effects of meteorological, aerodynamic, and machine learning applications on turbulence.**
 * **Published research on LSTM/GRU-based environmental monitoring in the Journal of Artificial Intelligence and Human Sciences**
 * **Implemented CNN architectures (VGG, ResNet, Inception) for medical image classification with enhanced preprocessing techniques**
 * **Created GAN-based synthetic avatar generation system with reduced mode collapse and improved diversity**
