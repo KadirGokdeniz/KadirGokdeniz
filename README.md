@@ -7,7 +7,7 @@
 
 ### About Me
 
-Computer Engineering graduate specializing in applied AI and machine learning. I combine analytical thinking with creative problem-solving to develop innovative solutions across multiple domains. My research focuses on pattern recognition, anomaly detection, and predictive modeling with applications in defense industry and aviation safety. Passionate about transforming complex data into actionable intelligence through deep learning approaches. Committed to continuous learning and exploring the intersection of cutting-edge technology and real-world challenges.
+Computer Engineering graduate specializing in applied AI and machine learning. I combine analytical thinking with creative problem-solving to develop innovative solutions across multiple domains. My research focuses on image processing, environmental sensing systems, and pattern recognition. Passionate about transforming complex data into actionable intelligence through deep learning approaches. Committed to continuous learning and exploring the intersection of cutting-edge technology and real-world challenges.
 
 ### Core Competencies
 
@@ -27,8 +27,8 @@ Computer Engineering graduate specializing in applied AI and machine learning. I
 ### Research Interests
 
 - **🎮 Generative Models (GANs)**: Synthetic image generation and game asset creation
-- **🫁 Medical Image Analysis**: Deep learning interpretation of X-ray scans
-- **🛡️ Defense AI Applications**: Pattern recognition in complex environments
+- **👁️ Image Processing**: Advanced recognition algorithms and real-time analysis
+- **🌐 Environmental Sensing Systems**: Sensor data integration and interpretation
 
 > "Engineering is where science and art break even." — Robin Sauser
 
