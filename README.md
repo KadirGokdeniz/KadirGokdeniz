@@ -1,6 +1,6 @@
 # Kadir Gökdeniz
 
-## 👨‍💻 Computer Engineer | Machine Learning Specialist
+## 👨‍💻 Computer Engineer | Machine Learning Engineer
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kadir-g%C3%B6kdeniz-16573127a/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:kadirgokdeniz@hotmail.com)
