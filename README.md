@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:kadirqokdeniz@hotmail.com)
 
 ## About Me
-Innovative ML Engineer specializing in real-world AI applications with published research in aviation safety and environmental monitoring. SAYZEK researcher developing cutting-edge turbulence prediction systems. Ankara University CS graduate (GPA: 3.80/4.00) with proven ability to transform complex data into actionable insights.
+Innovative ML Engineer specializing in real-world AI applications with published research in aviation safety and environmental monitoring. Researcher developing cutting-edge turbulence prediction systems. Ankara University CS graduate  with proven ability to transform complex data into actionable insights.
 
 ## 🔬 Core Projects
 
@@ -69,6 +69,5 @@ Innovative ML Engineer specializing in real-world AI applications with published
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ## 📚 Education
-**Ankara University** | Computer Engineering | 2020-2025 (Early Graduation)
+**Ankara University** | Computer Engineering | 2020-2025
 - GPA: 3.80/4.00 (High Honor Student)
-- Specialized in: AI, Deep Learning, Pattern Recognition, Data Mining
